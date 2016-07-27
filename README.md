@@ -9,5 +9,5 @@ $ vagrant up
 ```
 Run this command to provision your machines with Ansible
 ```bash
-$ ansible-playbook - i inventories main.yml
+$ ansible-playbook main.yml
 ```
